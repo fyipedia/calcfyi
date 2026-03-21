@@ -1,6 +1,6 @@
 [project]
 name = "calcfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Online calculators — financial, health and math API client — calcfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["calcfyi[api,cli,mcp]"]
 
 [project.scripts]
 calcfyi = "calcfyi.cli:app"
+calcfyi-mcp = "calcfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 calcfyi = "calcfyi.mcp_server:mcp"
