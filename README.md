@@ -275,6 +275,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | cocktailfyi | [PyPI](https://pypi.org/project/cocktailfyi/) | -- | Cocktail ABV, calories, flavor -- [cocktailfyi.com](https://cocktailfyi.com/) |
 | fyipedia | [PyPI](https://pypi.org/project/fyipedia/) | -- | Unified CLI for all FYI tools -- [fyipedia.com](https://fyipedia.com/) |
 
+## Embed Widget
+
+Embed [CalcFYI](https://calcfyi.com) widgets on any website with [calcfyi-embed](https://widget.calcfyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/calcfyi-embed@1/dist/embed.min.js"></script>
+<div data-calcfyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.calcfyi.com)
+
 ## License
 
 MIT
