@@ -286,6 +286,20 @@ Embed [CalcFYI](https://calcfyi.com) widgets on any website with [calcfyi-embed]
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.calcfyi.com)
 
+<!-- WIDGET-OSS-MONITOR: cross-links START -->
+
+## Related Resources
+
+- **Widget Hub**: [widget.reffyi.com](https://widget.reffyi.com/) — interactive widgets for the Guide FYI ecosystem
+- **Main Site**: [reffyi.com](https://reffyi.com/) — full reference
+- **Family Network**: see [/developers/](https://reffyi.com/developers/) for sister packages
+
+## FYIPedia Ecosystem
+
+This package is part of the [FYIPedia](https://fyipedia.com) developer tools ecosystem. Sister packages in this family: see widget hub link above.
+
+<!-- WIDGET-OSS-MONITOR: cross-links END -->
+
 ## License
 
 MIT
