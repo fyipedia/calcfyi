@@ -300,6 +300,15 @@ This package is part of the [FYIPedia](https://fyipedia.com) developer tools eco
 
 <!-- WIDGET-OSS-MONITOR: cross-links END -->
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://calcfyi.com](https://calcfyi.com):
+- [Homepage](https://calcfyi.com)
+- [Developer documentation](https://calcfyi.com/developers/)
+- [Sitemap (full content index)](https://calcfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
